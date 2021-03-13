@@ -24,9 +24,3 @@ Two columns required:
     - Format: (tickets in ascending order), (total contact)
 
 Your submission should have **500.000 rows** excluding headers, each with 2 columns
-
-Collaborator : 
-- [sein04](https://github.com/sein04)
-- [chamisfum](https://github.com/chamisfum)
-- [shandytp](https://github.com/shandytp)
-- [IlhamSet](https://github.com/IlhamSet)
