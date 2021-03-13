@@ -22,3 +22,13 @@
 | 2     | /lenteng agung barat  |
 | 3     | muh sigit wahyu p dr sp kj/jalan adi sucipto      |
 | 4     | senam melinda/        |
+
+Submission must have **50.000 rows**, each with 2 columns.
+
+
+### Referensi 
+- https://becominghuman.ai/part-of-speech-tagging-tutorial-with-the-keras-deep-learning-library-d7f93fa05537
+- https://towardsdatascience.com/addressnet-how-to-build-a-robust-street-address-parser-using-a-recurrent-neural-network-518d97b9aebd
+- https://machinelearnings.co/statistical-nlp-on-openstreetmap-b9d573e6cc86
+- https://medium.com/@albarrentine/statistical-nlp-on-openstreetmap-part-2-80405b988718
+- https://github.com/openvenues/libpostal
